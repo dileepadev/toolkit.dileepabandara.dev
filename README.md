@@ -7,7 +7,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/dileepabandara/toolkit.dileepabandara.dev?color=1f77b4)
 ![GitHub top language](https://img.shields.io/github/languages/top/dileepabandara/toolkit.dileepabandara.dev?color=7f0c7f)
 
-![cover](https://user-images.githubusercontent.com/80202913/212151212-38e96130-85dc-4e0a-9931-6d1df8f5576a.png)
+![cover](https://user-images.githubusercontent.com/80202913/219399691-cac6d791-c02c-4676-8491-b3dd11694f1d.png)
 
 ## ✨ About
 
