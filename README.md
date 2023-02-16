@@ -7,7 +7,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/dileepabandara/toolkit.dileepabandara.dev?color=1f77b4)
 ![GitHub top language](https://img.shields.io/github/languages/top/dileepabandara/toolkit.dileepabandara.dev?color=7f0c7f)
 
-![cover](https://user-images.githubusercontent.com/80202913/212151212-38e96130-85dc-4e0a-9931-6d1df8f5576a.png)
+![cover](https://user-images.githubusercontent.com/80202913/219399691-cac6d791-c02c-4676-8491-b3dd11694f1d.png)
 
 ## ✨ About
 
@@ -21,9 +21,9 @@ The collection of flexible resource tools that I employ while creating, developi
 
 ## 🎉 Release Status
 
-Version - v1.0.0  
-Initial release date - February 09, 2023  
-[View Releases](https://github.com/dileepabandara/toolkit.dileepabandara.dev/releases)
+Version - v1.1.1  
+Initial release date - February 16, 2023  
+[View all releases](https://github.com/dileepabandara/toolkit.dileepabandara.dev/releases)
 
 ## 🍃 Branches
 
@@ -40,8 +40,8 @@ Web Build
 
 - [web-build](https://github.com/dileepabandara/toolkit.dileepabandara.dev/tree/web-build) - Stable and
   latest version of the web build
-- [web-build-1.0.0](https://github.com/dileepabandara/toolkit.dileepabandara.dev/tree/web-build-1.0.0) -
-  Stable 1.0.0 version of the web build
+- [web-build-1.1.1](https://github.com/dileepabandara/toolkit.dileepabandara.dev/tree/web-build-1.1.1) -
+  Stable 1.1.1 version of the web build
 
 ## 💙 Built With
 
